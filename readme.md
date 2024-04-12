@@ -9,12 +9,12 @@ A list of Home Assistant integrations that are relevant for Israeli and Jewish u
 **Integrations, add-ons, components:**
 
 - [Israel-Specific](#israel-specific	)
-- [Jewish Interest](#Of-Jewish-Interest)
+- [Jewish Interest](#of-jewish-interest)
 
 **Communities, discussion, inspiration:**
 
 - [Communities and User Groups](#communities)
-- [Blogs, Documentation](#documentation)
+- [Blogs, Documentation](#documentation-and-blog-posts)
 
 ------
 
@@ -75,10 +75,6 @@ These repositories might also be of interest:
 - [Israeli Government Open Source](https://github.com/IsraelGovernment/Israelopengov) 
 - [Open source projects list](https://github.com/shlomizadok/open-source-il)
 - [Kaplan Open Source Israel](https://kaplanopensource.co.il/open-source-in-israel/)
-
-
-
-
 
 ## Contribute
 
