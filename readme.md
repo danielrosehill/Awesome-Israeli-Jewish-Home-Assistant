@@ -37,6 +37,7 @@ Other projects and components that may be of utility/interest:
 - [Israel Meteorological Service (IMS) Weather Sensor](https://github.com/t0mer/ims-custom-component) - This sensor integrates with updates from Israel's national weather provider. 
 - [Israeli School Vacation Days](https://github.com/rt400/School-Vacation) - This sensor checks whether it's a day off from school or not according to Israel's school calendar
 - [Custom component for Electra air conditioners](https://github.com/yonatanp/electrasmart-custom-component) - An integration for Electra branded air conditioners
+- [Animara free sampler](https://github.com/animaraicons/animara-free-sampler) - Open source animated device icons for Home Assistant dashboards (fans that turn, ACs that breathe, washers that spin, following the real device state), made in Israel. 12 icons free; the full set is commercial.
 
 ------
 
