@@ -47,6 +47,7 @@ These projects might be of interest if you are Jewish (want Shabbat times throug
 
 - [Jewish Sabbaths and Holidays](https://github.com/rt400/Jewish-Sabbaths-Holidays) - This is an incredibly helpful integration which uses the [HebCal API](https://www.hebcal.com/home/developer-apis) to expose times for Shabbat, Yom Tov and religious observance as sensors in Home Assistant.
 - [Jewish Calendar](https://www.home-assistant.io/integrations/jewish_calendar/) - Home Assistant also ships with a 'Jewish Calendar' integration which provides sensors for the weekly Torah portion, the omer count, and even the Daf Yomi!
+- [Zmanim and Shabbat](https://github.com/danielrosehill/Zmanim-Shabbat-HA-Integration) - A simple alternative to the Jewish Calendar integration, with one time per zman, English and Hebrew names, Shabbat and Yom Tov, Chol HaMoed and fast day sensors, a generated dashboard, and blueprints for spoken announcements and flashing lights.
 - [Molad sensor](https://github.com/chaimchaikin/molad-ha) - For exposing the Molad and Rosh Hodesh times as sensors in Home Assistant
 
 ------
